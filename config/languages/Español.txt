@@ -1,0 +1,82 @@
+Partida nueva o partida antigua,Partida nueva o partida antigua
+1.Partida nueva,1.Partida nueva
+2.Partida antigua,2.Partida antigua
+Opcion no valida,Opcion no valida
+Eliga la partida,Eliga la partida
+El directorio está vacío,El directorio está vacío
+Cuantos jugadores sois,Cuantos jugadores sois
+Los colores son rojo verde azul y negro,Los colores son rojo verde azul y negro
+Los colores son rojo verde y azul,Los colores son rojo verde y azul
+Los colores son rojo y verde,Los colores son rojo y verde
+Solo podeis ser de 2 a 4 jugadores,Solo podeis ser de 2 a 4 jugadores
+Introduzca codigo de targeta,Introduzca codigo de targeta
+¿Que jugador?,¿Que jugador?
+1. rojo,1. rojo
+2. verde,2. verde
+3. azul,3. azul
+4. negro,4. negro
+El jugador rojo ha ganado la partida,El jugador rojo ha ganado la partida
+El jugador verde ha ganado la partida,El jugador verde ha ganado la partida
+El jugador azul ha ganado la partida,El jugador azul ha ganado la partida
+El jugador negro ha ganado la partida,El jugador negro ha ganado la partida
+No tiene suficiente dinero operacion cancelada,No tiene suficiente dinero operacion cancelada
+No tienes suficiente dinero ¿que propiedad quieres vender?,No tienes suficiente dinero ¿que propiedad quieres vender?
+Esa opcion no esta reflejada,Esa opcion no esta reflejada
+Operacion realizada,Operacion realizada
+Se ha hipotecado la propiedad,Se ha hipotecado la propiedad
+La propiedad tiene casas por lo que vendemos una casa,La propiedad tiene casas por lo que vendemos una casa
+El jugador rojo esta en bancarrota,El jugador rojo esta en bancarrota
+El jugador verde esta en bancarota,El jugador verde esta en bancarrota
+El jugador azul esta en bancarrota,El jugador azul esta en bancarrota
+El jugador negro esta en bancarrota,El jugador negro esta en bancarrota
+El jugador rojo tiene:,El jugador rojo tiene:
+El jugador verde tiene:,El jugador verde tiene:
+El jugador azul tiene:,El jugador azul tiene:
+El jugador negro tiene:,El jugador negro tiene:
+No tiene propiedades,No tiene propiedades
+Propiedades:,Propiedades:
+La siguiente propiedad esta hipotecada,La siguiente propiedad esta hipotecada
+No tiene casas,No tiene casas
+Casas: ,Casas: 
+Tiene 4 casas y un hotel,Tiene 4 casas y un hotel
+1. Aceptar,1. Aceptar
+2. Cancelar,2. Cancelar
+Operacion cancelada,Operacion cancelada
+El jugador rojo va a realizar el pago por casas de ,El jugador rojo va a realizar el pago por casas de 
+El jugador verde va a realizar el pago por casas de ,El jugador verde va a realizar el pago por casas de 
+El jugador azul va a realizar el pago por casas de ,El jugador azul va a realizar el pago por casas de 
+El jugador negro va a realizar el pago por casas de ,El jugador negro va a realizar el pago por casas de 
+ y por hoteles de, y por hoteles de
+No tienes ninguna casa ni hotel,No tienes ninguna casa ni hotel
+Se va a realizar la compra de la propiedad ,Se va a realizar la compra de la propiedad 
+ por parte del jugador rojo por un importe de, por parte del jugador rojo por un importe de
+ por parte del jugador verde por un importe de, por parte del jugador verde por un importe de
+ por parte del jugador azul por un importe de, por parte del jugador azul por un importe de
+ por parte del jugador negro por un importe de, por parte del jugador negro por un importe de
+Se va a realizar la hipoteca de la propiedad ,Se va a realizar la hipoteca de la propiedad 
+Se va a realizar la deshipoteca la propiedad ,Se va a realizar la deshipoteca la propiedad 
+¿Que numero has sacado en los dados?,¿Que numero has sacado en los dados?
+El jugador rojo usara la propiedad ,El jugador rojo usara la propiedad 
+El jugador verde usara la propiedad ,El jugador verde usara la propiedad 
+El jugador azul usara la propiedad ,El jugador azul usara la propiedad 
+El jugador negro usara la propiedad ,El jugador negro usara la propiedad 
+ por un importe de, por un importe de
+Te has quedado sin activos para hipotecar por lo que has perdido y se le traspasaran las propiedades al jugador rojo,Te has quedado sin activos para hipotecar por lo que has perdido y se le traspasaran las propiedades al jugador rojo
+Te has quedado sin activos para hipotecar por lo que has perdido y se le traspasaran las propiedades al jugador verde,Te has quedado sin activos para hipotecar por lo que has perdido y se le traspasaran las propiedades al jugador verde
+Te has quedado sin activos para hipotecar por lo que has perdido y se le traspasaran las propiedades al jugador azul,Te has quedado sin activos para hipotecar por lo que has perdido y se le traspasaran las propiedades al jugador azul
+Te has quedado sin activos para hipotecar por lo que has perdido y se le traspasaran las propiedades al jugador negro,Te has quedado sin activos para hipotecar por lo que has perdido y se le traspasaran las propiedades al jugador negro
+El numero debe ser del 1 al 12,El numero debe ser del 1 al 12
+Se va a realizar la compra de una casa para la propiedad ,Se va a realizar la compra de una casa para la propiedad 
+Esta propiedad no puede tener mas casas,Esta propiedad no puede tener mas casas
+Se va a realizar la venta de una casa para la propiedad ,Se va a realizar la venta de una casa para la propiedad 
+Esta propiedad no tiene casas para vender,Esta propiedad no tiene casas para vender
+Una propiedad no puede ser hipotecada si tiene aun casas,Una propiedad no puede ser hipotecada si tiene aun casas
+Que operacion quiere ralizar,Que operacion quiere ralizar
+1. Hipotecar,1. Hipotecar
+2. Comprar casas,2. Comprar casas
+3. Vender casas,3. Vender casas
+Eliga el idioma,Eliga el idioma
+Resumen:,Resumen:
+La propiedad esta hipotecada no es necesario pagar,La propiedad esta hipotecada no es necesario pagar
+Te has quedado sin activos para hipotecar por lo que has perdido y te has quedado en bancarrota,Te has quedado sin activos para hipotecar por lo que has perdido y te has quedado en bancarrota
+Escriba un numero,Escriba un numero

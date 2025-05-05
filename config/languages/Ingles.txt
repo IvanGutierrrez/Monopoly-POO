@@ -1,0 +1,82 @@
+Partida nueva o partida antigua,New game or old game
+1.Partida nueva,1.New game
+2.Partida antigua,2.Old game
+Opcion no valida,Invalid option
+Eliga la partida,Choose the game
+El directorio está vacío,The directory is empty
+Cuantos jugadores sois,How many players are you
+Los colores son rojo verde azul y negro,Colors are red green blue and black
+Los colores son rojo verde y azul,Colors are red green and blue
+Los colores son rojo y verde,Colors are red and green
+Solo podeis ser de 2 a 4 jugadores,You can only be 2 to 4 players
+Introduzca codigo de targeta,Enter card code
+¿Que jugador?,Which player
+1. rojo,1. red
+2. verde,2. green
+3. azul,3. blue
+4. negro,4. black
+El jugador rojo ha ganado la partida,The red player has won the game
+El jugador verde ha ganado la partida,The green player has won the game
+El jugador azul ha ganado la partida,The blue player has won the game
+El jugador negro ha ganado la partida,The black player has won the game
+No tiene suficiente dinero operacion cancelada,Not enough money operation canceled
+No tienes suficiente dinero ¿que propiedad quieres vender?,You don't have enough money which property do you want to sell
+Esa opcion no esta reflejada,That option is not reflected
+Operacion realizada,Operation completed
+Se ha hipotecado la propiedad,The property has been mortgaged
+La propiedad tiene casas por lo que vendemos una casa,The property has houses so we sell one house
+El jugador rojo esta en bancarrota,The red player is bankrupt
+El jugador verde esta en bancarrota,The green player is bankrupt
+El jugador azul esta en bancarrota,The blue player is bankrupt
+El jugador negro esta en bancarrota,The black player is bankrupt
+El jugador rojo tiene:,The red player has:
+El jugador verde tiene:,The green player has:
+El jugador azul tiene:,The blue player has:
+El jugador negro tiene:,The black player has:
+No tiene propiedades,You don't have properties
+Propiedades:,Properties:
+La siguiente propiedad esta hipotecada,The next property is mortgaged
+No tiene casas,You don't have houses
+Casas: ,Houses: 
+Tiene 4 casas y un hotel,You have 4 houses and a hotel
+1. Aceptar,1. Accept
+2. Cancelar,2. Cancel
+Operacion cancelada,Operation canceled
+El jugador rojo va a realizar el pago por casas de ,The red player will make the payment for houses of 
+El jugador verde va a realizar el pago por casas de ,The green player will make the payment for houses of 
+El jugador azul va a realizar el pago por casas de ,The blue player will make the payment for houses of 
+El jugador negro va a realizar el pago por casas de ,The black player will make the payment for houses of 
+ y por hoteles de, and for hotels of 
+No tienes ninguna casa ni hotel,You don't have any houses or hotels
+Se va a realizar la compra de la propiedad ,The purchase of the property will be made by 
+ por parte del jugador rojo por un importe de, by the red player for an amount of 
+ por parte del jugador verde por un importe de, by the green player for an amount of 
+ por parte del jugador azul por un importe de, by the blue player for an amount of 
+ por parte del jugador negro por un importe de, by the black player for an amount of 
+Se va a realizar la hipoteca de la propiedad ,The mortgage of the property will be made by 
+Se va a realizar la deshipoteca la propiedad ,The property will be un-mortgaged 
+¿Que numero has sacado en los dados?,What number did you roll on the dice?
+El jugador rojo usara la propiedad ,The red player will use the property 
+El jugador verde usara la propiedad ,The green player will use the property 
+El jugador azul usara la propiedad ,The blue player will use the property 
+El jugador negro usara la propiedad ,The black player will use the property 
+ por un importe de, for an amount of 
+Te has quedado sin activos para hipotecar por lo que has perdido y se le traspasaran las propiedades al jugador rojo,You have run out of assets to mortgage so you have lost and the properties will be transferred to the red player
+Te has quedado sin activos para hipotecar por lo que has perdido y se le traspasaran las propiedades al jugador verde,You have run out of assets to mortgage so you have lost and the properties will be transferred to the green player
+Te has quedado sin activos para hipotecar por lo que has perdido y se le traspasaran las propiedades al jugador azul,You have run out of assets to mortgage so you have lost and the properties will be transferred to the blue player
+Te has quedado sin activos para hipotecar por lo que has perdido y se le traspasaran las propiedades al jugador negro,You have run out of assets to mortgage so you have lost and the properties will be transferred to the black player
+El numero debe ser del 1 al 12,The number must be from 1 to 12
+Se va a realizar la compra de una casa para la propiedad ,The purchase of a house for the property will be made by 
+Esta propiedad no puede tener mas casas,This property cannot have more houses
+Se va a realizar la venta de una casa para la propiedad ,The sale of a house for the property will be made by 
+Esta propiedad no tiene casas para vender,This property has no houses to sell
+Una propiedad no puede ser hipotecada si tiene aun casas,A property cannot be mortgaged if it still has houses
+Que operacion quiere ralizar,What operation do you want to perform
+1. Hipotecar,1. Mortgage
+2. Comprar casas,2. Buy houses
+3. Vender casas,3. Sell houses
+Escriba un numero,Write a number
+Eliga el idioma,Choose the language
+Resumen:,Summary:
+La propiedad esta hipotecada no es necesario pagar,The property is mortgaged it is not necessary to pay
+Te has quedado sin activos para hipotecar por lo que has perdido y te has quedado en bancarrota,You have run out of assets to mortgage for what you have lost and you have become bankrupt

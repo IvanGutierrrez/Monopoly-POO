@@ -1,0 +1,82 @@
+Partida nueva o partida antigua,Partida berria edo partida zaharra
+1.Partida nueva,1.Partida berria
+2.Partida antigua,2.Partida zaharra
+Opcion no valida,Aukera baliogabea
+Eliga la partida,Hautatu partida
+El directorio está vacío,Karpeta hutsik dago
+Cuantos jugadores sois,Zenbat jokalari zarete
+Los colores son rojo verde azul y negro,Koloreak gorriak berdeak urdinak eta beltzak
+Los colores son rojo verde y azul,Koloreak gorriak berdeak eta urdinak
+Los colores son rojo y verde,Koloreak gorriak eta berdeak
+Solo podeis ser de 2 a 4 jugadores,Bi eta lau jokalari izan daitezke bakarrik
+Introduzca codigo de targeta,Sartu txartelaren kodea
+¿Que jugador?,Zein jokalari?
+1. rojo,1. gorria
+2. verde,2. berdea
+3. azul,3. urdina
+4. negro,4. beltza
+El jugador rojo ha ganado la partida,Gorri jokalaria partida irabazi du
+El jugador verde ha ganado la partida,Berde jokalaria partida irabazi du
+El jugador azul ha ganado la partida,Urdin jokalaria partida irabazi du
+El jugador negro ha ganado la partida,Beltz jokalaria partida irabazi du
+No tiene suficiente dinero operacion cancelada,Ez duzu diru nahikorik, operazioa bertan behera utzi da
+No tienes suficiente dinero ¿que propiedad quieres vender?,Ez duzu diru nahikorik, zein ondasun saldu nahi duzu?
+Esa opcion no esta reflejada,Aukera hori ez dago erreflexua
+Operacion realizada,Eragiketa egin da
+Se ha hipotecado la propiedad,Jabetza hipotekatu da
+La propiedad tiene casas por lo que vendemos una casa,Jabetza etxeekin badu etxe bat salduko dugu
+El jugador rojo esta en bancarrota,Gorri jokalaria bankarrotan dago
+El jugador verde esta en bancarrota,Berde jokalaria bankarrotan dago
+El jugador azul esta en bancarrota,Urdin jokalaria bankarrotan dago
+El jugador negro esta en bancarrota,Beltz jokalaria bankarrotan dago
+El jugador rojo tiene:,Gorri jokalaria du:
+El jugador verde tiene:,Berde jokalaria du:
+El jugador azul tiene:,Urdin jokalaria du:
+El jugador negro tiene:,Beltz jokalaria du:
+No tiene propiedades,Ez du jabetzarik
+Propiedades:,Jabetzak:
+La siguiente propiedad esta hipotecada,Hurrengo jabetza hipotekatuta dago
+No tiene casas,Ez du etxeik
+Casas: ,Etxeak: 
+Tiene 4 casas y un hotel,Etxeak 4 eta hotela dauzka
+1. Aceptar,1. Onartu
+2. Cancelar,2. Utzi
+Operacion cancelada,Operazioa utzi da
+El jugador rojo va a realizar el pago por casas de ,Gorri jokalaria etxeekin ordainduko du 
+El jugador verde va a realizar el pago por casas de ,Berde jokalaria etxeekin ordainduko du 
+El jugador azul va a realizar el pago por casas de ,Urdin jokalaria etxeekin ordainduko du 
+El jugador negro va a realizar el pago por casas de ,Beltz jokalaria etxeekin ordainduko du 
+ y por hoteles de, eta hotelak
+No tienes ninguna casa ni hotel,Ez duzu etxerik edo hotelerik
+Se va a realizar la compra de la propiedad ,Erosketa egingo da jabetza 
+ por parte del jugador rojo por un importe de, jokalari gorriaren partez
+ por parte del jugador verde por un importe de, jokalari berdeak zenbateko baten truke
+ por parte del jugador azul por un importe de, jokalari urdinak zenbateko baten truke
+ por parte del jugador negro por un importe de, jokalari beltzaren zenbatekoaren truke
+Se va a realizar la hipoteca de la propiedad ,Jabetza hipotekatuko da 
+Se va a realizar la deshipoteca la propiedad ,Jabetza deshipotekatuko da 
+¿Que numero has sacado en los dados?,Zenbaki bat idatzi daukazu zakarretan?
+El jugador rojo usara la propiedad ,Gorri jokalaria erabiliko du 
+El jugador verde usara la propiedad ,Berde jokalaria erabiliko du 
+El jugador azul usara la propiedad ,Urdin jokalaria erabiliko du 
+El jugador negro usara la propiedad ,Beltz jokalaria erabiliko du 
+ por un importe de, eta 
+Te has quedado sin activos para hipotecar por lo que has perdido y se le traspasaran las propiedades al jugador rojo,Dirurik ez daukazu hipotekatzeko galdu duzu eta jabetzak gorri jokalariari traspasatuko zaizkio
+Te has quedado sin activos para hipotecar por lo que has perdido y se le traspasaran las propiedades al jugador verde,Dirurik ez daukazu hipotekatzeko galdu duzu eta jabetzak berde jokalariari traspasatuko zaizkio
+Te has quedado sin activos para hipotecar por lo que has perdido y se le traspasaran las propiedades al jugador azul,Dirurik ez daukazu hipotekatzeko galdu duzu eta jabetzak urdin jokalariari traspasatuko zaizkio
+Te has quedado sin activos para hipotecar por lo que has perdido y se le traspasaran las propiedades al jugador negro,Dirurik ez daukazu hipotekatzeko galdu duzu eta jabetzak beltz jokalariari traspasatuko zaizkio
+El numero debe ser del 1 al 12,Zenbakia 1etik 12ra izan behar da
+Se va a realizar la compra de una casa para la propiedad ,Erosketa egingo da etxe baten propietatearentzat 
+Esta propiedad no puede tener mas casas,Jabetza honek ezin du etxe gehiago izan
+Se va a realizar la venta de una casa para la propiedad ,Etxe bat salduko da jabetzagatik 
+Esta propiedad no tiene casas para vender,Jabetza honek ez du etxerik saltzeko
+Una propiedad no puede ser hipotecada si tiene aun casas,Etxebizitza bat ezin da hipotekatu oraindik etxebizitzak baditu
+Que operacion quiere ralizar,Zein eragiketa egin nahi duzu?
+1. Hipotecar,1. Hipoteka
+2. Comprar casas,2. Etxeak erosi
+3. Vender casas,3. Etxeak saldu
+Eliga el idioma,Aukeratu hizkuntza
+Resumen:,Laburpen:
+La propiedad esta hipotecada no es necesario pagar,Jabetza hipotekatuta dago ez da beharrezkoa ordaintzea
+Te has quedado sin activos para hipotecar por lo que has perdido y te has quedado en bancarrota,Galdutakoagatik hipotekatzeko aktiborik gabe geratu zara eta porrot egin duzu
+Escriba un numero,Idatzi zenbaki bat

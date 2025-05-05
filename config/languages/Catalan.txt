@@ -1,0 +1,82 @@
+Partida nueva o partida antigua,Partida nova o partida antiga
+1.Partida nueva,1.Partida nova
+2.Partida antigua,2.Partida antiga
+Opcion no valida,Opció no vàlida
+Eliga la partida,Triï la partida
+El directorio está vacío,El directori està buit
+Cuantos jugadores sois,Quants jugadors sou
+Los colores son rojo verde azul y negro,Els colors són vermell, verd, blau i negre
+Los colores son rojo verde y azul,Els colors són vermell, verd i blau
+Los colores son rojo y verde,Els colors són vermell i verd
+Solo podeis ser de 2 a 4 jugadores,Només podeu ser de 2 a 4 jugadors
+Introduzca codigo de targeta,Introdueixi el codi de la targeta
+¿Que jugador?,Quin jugador?
+1. rojo,1. Vermell
+2. verde,2. Verd
+3. azul,3. Blau
+4. negro,4. Negre
+El jugador rojo ha ganado la partida,El jugador vermell ha guanyat la partida
+El jugador verde ha ganado la partida,El jugador verd ha guanyat la partida
+El jugador azul ha ganado la partida,El jugador blau ha guanyat la partida
+El jugador negro ha ganado la partida,El jugador negre ha guanyat la partida
+No tiene suficiente dinero operacion cancelada,No té prou diners, operació cancel·lada
+No tienes suficiente dinero ¿que propiedad quieres vender?,No tens prou diners, quina propietat vols vendre?
+Esa opcion no esta reflejada,Aquesta opció no està reflectida
+Operacion realizada,Operació realitzada
+Se ha hipotecado la propiedad,S'ha hipotecat la propietat
+La propiedad tiene casas por lo que vendemos una casa,La propietat té cases, així que venem una casa
+El jugador rojo esta en bancarrota,El jugador vermell està en fallida
+El jugador verde esta en bancarrota,El jugador verd està en fallida
+El jugador azul esta en bancarrota,El jugador blau està en fallida
+El jugador negro esta en bancarrota,El jugador negre està en fallida
+El jugador rojo tiene:,El jugador vermell té:
+El jugador verde tiene:,El jugador verd té:
+El jugador azul tiene:,El jugador blau té:
+El jugador negro tiene:,El jugador negre té:
+No tiene propiedades,No té propietats
+Propiedades:,Propietats:
+La siguiente propiedad esta hipotecada,La següent propietat està hipotecada
+No tiene casas,No té cases
+Casas: ,Cases: 
+Tiene 4 casas y un hotel,Té 4 cases i un hotel
+1. Aceptar,1. Acceptar
+2. Cancelar,2. Cancel·lar
+Operacion cancelada,Operació cancel·lada
+El jugador rojo va a realizar el pago por casas de ,El jugador vermell farà el pagament per les cases de 
+El jugador verde va a realizar el pago por casas de ,El jugador verd farà el pagament per les cases de 
+El jugador azul va a realizar el pago por casas de ,El jugador blau farà el pagament per les cases de 
+El jugador negro va a realizar el pago por casas de ,El jugador negre farà el pagament per les cases de 
+ y por hoteles de, i pels hotels de
+No tienes ninguna casa ni hotel,No tens cap casa ni hotel
+Se va a realizar la compra de la propiedad ,Es realitzarà la compra de la propietat 
+ por parte del jugador rojo por un importe de, per part del jugador vermell per un import de
+ por parte del jugador verde por un importe de, per part del jugador verd per un import de
+ por parte del jugador azul por un importe de, per part del jugador blau per un import de
+ por parte del jugador negro por un importe de, per part del jugador negre per un import de
+Se va a realizar la hipoteca de la propiedad ,Es realitzarà la hipoteca de la propietat 
+Se va a realizar la deshipoteca la propiedad ,Es realitzarà la deshipoteca de la propietat 
+¿Que numero has sacado en los dados?,Quin número has tret als daus?
+El jugador rojo usara la propiedad ,El jugador vermell utilitzarà la propietat 
+El jugador verde usara la propiedad ,El jugador verd utilitzarà la propietat 
+El jugador azul usara la propiedad ,El jugador blau utilitzarà la propietat 
+El jugador negro usara la propiedad ,El jugador negre utilitzarà la propietat 
+ por un importe de, per un import de
+Te has quedado sin activos para hipotecar por lo que has perdido y se le traspasaran las propiedades al jugador rojo,Has quedat sense actius per hipotecar, així que has perdut i les propietats es traspassaran al jugador vermell
+Te has quedado sin activos para hipotecar por lo que has perdido y se le traspasaran las propiedades al jugador verde,Has quedat sense actius per hipotecar, així que has perdut i les propietats es traspassaran al jugador verd
+Te has quedado sin activos para hipotecar por lo que has perdido y se le traspasaran las propiedades al jugador azul,Has quedat sense actius per hipotecar, així que has perdut i les propietats es traspassaran al jugador blau
+Te has quedado sin activos para hipotecar por lo que has perdido y se le traspasaran las propiedades al jugador negro,Has quedat sense actius per hipotecar, així que has perdut i les propietats es traspassaran al jugador negre
+El numero debe ser del 1 al 12,El número ha de ser del 1 al 12
+Se va a realizar la compra de una casa para la propiedad ,Es realitzarà la compra d'una casa per la propietat 
+Esta propiedad no puede tener mas casas,Aquesta propietat no pot tenir més cases
+Se va a realizar la venta de una casa para la propiedad ,Es realitzarà la venda d'una casa per la propietat 
+Esta propiedad no tiene casas para vender,Aquesta propietat no té cases per vendre
+Una propiedad no puede ser hipotecada si tiene aun casas,Una propietat no pot ser hipotecada si
+Que operacion quiere ralizar,Quina operació vol fer
+1. Hipotecar,1. Hipotecar
+2. Comprar casas,2. Comprar cases
+3. Vender casas,3. Vendre cases
+Eliga el idioma,Trieu l'idioma
+Resumen:,Resum:
+La propiedad esta hipotecada no es necesario pagar,La propietat està hipotecada no cal pagar
+Te has quedado sin activos para hipotecar por lo que has perdido y te has quedado en bancarrota,T'has quedat sense actius per hipotecar pel que has perdut i t'has quedat en fallida
+Escriba un numero,Escriviu un nombre
